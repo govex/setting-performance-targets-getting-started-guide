@@ -1,5 +1,4 @@
 ##Category Two: Overconfidence
-=====
 
 Overconfidence occurs when targets are unrealistic and unattainable based on all available evidence. There is no evidence the government has ever performed at the target level, and no evidence it can reach the target. It is pure optimism. This is most common when a government is trying to take an aggressive position to inspire higher performance, regardless of the evidence. 
 

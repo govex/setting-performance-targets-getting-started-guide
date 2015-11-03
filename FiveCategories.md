@@ -11,6 +11,7 @@ All five target setting categories are illustrated in Figure 1. The graphic is i
 * **Accuracy:** targets are carefully calculated to drive precise achievement
 * **Stability:** performance has flatlined at an acceptable level, time to move on 
 
+#####Figure 1
 <img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Target%20Setting%20-%20Figure%201.png">
 
 

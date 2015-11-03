@@ -11,6 +11,9 @@ All five target setting categories are illustrated in Figure 1. The graphic is i
 * **Accuracy:** targets are carefully calculated to drive precise achievement
 * **Stability:** performance has flatlined at an acceptable level, time to move on 
 
+[<img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Target%20Setting%20-%20Figure%201.png">
+
+
 > <sub> **Goals vs. Targets** </sub>
 
 > <sub>Many organizations have very precise definitions for the words goal and target. For example, a city many set a goal to end homelessness by 2018, and then set specific targets for each preceding year. Under this construct, the goal is the ultimate desired achievement, and the target is the path to get there. However, other organizations, including GovEx, use the words more interchangeably, because they are essentially the same thing: a specific quantity a program, department, or government is trying to achieve in the future. Because goals and targets have so much in common, GovEx has chosen to avoid making meaningful distinctions between them and encourages governments to use whichever construct makes the most sense to its people and culture. </sub> 

@@ -6,3 +6,4 @@
   * [Accuracy] (CategoryFour.md)
   * [Stability] (CategoryFive.md)
 * [Practicing Accuracy] (Practice.md)
+* [Glossary] (Glossary.md)

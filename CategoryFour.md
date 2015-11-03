@@ -2,7 +2,7 @@
 
 Ensure accuracy by carefully calculating targets to drive precise achievement. This usually occurs when there is a wealth of historical performance data and when leaders expect program managers to leverage descriptive and inferential statistics to set achievable targets that continuously improve performance. 
 
-###Signs of Accuracy:
+###Signs of accuracy:
 * Baseline data exists.
 * There is internal consensus about the validity of the measure.
 * There is internal consensus about the validity of the target.
@@ -23,7 +23,7 @@ Ensure accuracy by carefully calculating targets to drive precise achievement. T
 * **Run multiple what-if scenarios and sensitivity analysis.** With an underlying data model, variables can be changed to run multiple scenarios. For example, how sensitive is the target to changes in staff size, case loads, or operating hours. This is a great time to engage senior leadership in defining the inputs to the data model, because it helps secure their buy-in for the final target if they understand the methodology behind its creation.
 * **Pick an acceptable error range.** No predictive model is perfect, so decide in advance how wrong it is acceptable to be. Error ranges can be statistically calculated and applied to the final target the same way a political polls have “margins of error.” 
 
-###How not to practice Accuracy?
+###How not to practice accuracy?
 * **Do not get intimidated.** Target setting can get advanced quickly, and the data science practices involved can intimidate even the best data enthusiasts. But the barriers to entry have never been lower for those trying to advance their data science and predictive modeling practices. The tools and training are cheaper than ever (many are free and online), and the community of practitioners is rapidly expanding. 
 * **Do not bend your target toward the actuals.** As results come in, it is tempting to refine your targets up or down to match the actuals. This can prevent important learning about the accuracy and inaccuracies in the data model, and ultimately does nothing to inspire performance improvement. 
 * **Do not refine the targets too frequently.** One way to prevent target “bending” is to set them and leave them unchanged, perhaps updating them quarterly (at most). Tinkering with the targets too frequently, in an attempt to be more accurate, opens the door for target manipulation.

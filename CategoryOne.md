@@ -1,6 +1,6 @@
 ##Category One – Uncertainty
 
-Uncertainty occurs when a city has no baseline data about a performance measure, making it difficult to set appropriate targets without guessing. This most commonly occurs when a measure or program is new. 
+Uncertainty occurs when a city has no baseline data about a performance measure, making it difficult to set appropriate targets without guessing. This most commonly occurs when a measure or program is new, or when historical data is not available due to a transition to new data systems. 
 
 ###Signs of uncertainty:
 * No baseline data exists (yet).
@@ -9,11 +9,11 @@ Uncertainty occurs when a city has no baseline data about a performance measure,
 * The measure relates to a sensitive issue for which setting targets creates downstream political, legal, or moral consequences (e.g., staff downsizing).
 
 ###What to do with uncertainty?
-* **Consider a proxy measure.** Infant mortality rates are a direct measure of healthcare quality but are also a proxy for the economic and social welfare of a community. The unemployment rate is a direct measure of unemployment, but is also a proxy for the overall state of our economy. Proxy measures can be powerful tools for governments who do not have the exact data they want, but know the outcome they are trying to achieve. 
+* **Consider a proxy measure.** Infant mortality rates are a direct measure of healthcare quality but are also a proxy for the economic and social welfare of a community. The unemployment rate is a direct measure of unemployment, but is also a proxy for the overall state of our economy. Proxy measures can be powerful tools for governments who do not have the exact data they want, but know the outcome they are trying to achieve. Both examples given here are commonly used, defensible federal measures.
 * **Take advantage of benchmarking.** This measure may be new for your city, but another city may already have data you could learn from.
-* **Make an informed guess.** Most public managers have informed instincts about what is achievable – rely on those instincts until better information is available. 
+* **Make an informed guess.** Department heads, division managers and frontline staff have vaulable insight and informed instincts about what is achievable. Rely on your internal expertise until better information is available. 
 * **Remember, targets can be revised.** Targets are meant to drive progress on your priorities and should not be set in stone.
-* **Ask an expert.** Reach out informally to an expert in the field: universities and think tanks have a wealth of experts willing to share their knowledge about “what good looks like” based on extensive research and experience. 
+* **Ask an outside expert.** Reach out informally to an expert in the field: universities and think tanks have a wealth of experts willing to share their knowledge about “what good looks like” based on extensive research and experience. 
 * **Consider not setting a target.** It is ok to wait for baseline data, just do not wait too long.
 * **Use this time wisely.** 
      * **Create a data collection schedule and stick to it.** People often use “baselining” as a delay tactic, so create a schedule outlining all of the data elements for collection and make sure the baseline data collection is occurring on that schedule. 

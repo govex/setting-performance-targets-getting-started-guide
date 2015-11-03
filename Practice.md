@@ -69,7 +69,7 @@ The reasonable city manager, persuaded by the statistics, will likely want to fi
 * apply an increased productivity factor to the performance each month
 
 #####Figure 10
-<img src="https://github.com/centerforgov/Setting-Performance-Targets/blob/master/Figures/Practice%20-%20Figure%2010.png">
+<img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Practice%20-%20Figure%2010.png">
 
 In this example, the revised forecast assumes a 3% increase in productivity for each remaining month, but applies the factor to the 2013 totals in July, August and September (to account for the anomaly in 2014) and then applies the 3% productivity increase to 2014 totals for the remainder of the year. The end result: the cumulative target for 2015 is 11% higher than 2013 and is based on a historically accurate productivity pattern. The target falls within 1% of 2014’s actual performance, which has a few months discounted as anomalies. If July’s performance mirrors 2014, the entire target for 2015 can be easily readjusted.   
 

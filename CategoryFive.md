@@ -8,6 +8,9 @@ Stability occurs when performance has flatlined at an acceptable level. It occur
 * The target is always met or sustained.
 * There is very little external interest in this measure or its target. It is seen as standard business.
 
+#####Figure 6
+<img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Target%20Setting%20Graphic%20-%20Figure%206.png">
+
 ###What to do with stability?
 * **Celebrate it.** Reaching an acceptable level of performance and stabilizing is an achievement worth celebrating. It is undoubtedly the result of hard work, collaboration, and tough choices along the way. Celebrate that achievement publicly, so stakeholders know about the achievement and staff feels appreciated for their efforts. 
 * **Learn from it.** The path toward stable achievement is paved with lessons learned, so don’t forget to learn them. Put together an after action panel of stakeholders and talk about how such an optimal and stable level of performance was reached. Those conversations will have applicability across other programs. 

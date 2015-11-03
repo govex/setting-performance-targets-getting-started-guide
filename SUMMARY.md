@@ -6,4 +6,5 @@
   * [Accuracy] (CategoryFour.md)
   * [Stability] (CategoryFive.md)
 * [Practicing Accuracy] (Practice.md)
+* [Proxy Measures] (Proxy.md)
 * [Glossary] (Glossary.md)

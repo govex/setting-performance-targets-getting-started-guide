@@ -7,4 +7,5 @@
   * [Stability] (CategoryFive.md)
 * [Practicing Accuracy] (Practice.md)
 * [Proxy Measures] (Proxy.md)
+* [Benchmarking] (Benchmark.md)
 * [Glossary] (Glossary.md)

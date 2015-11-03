@@ -4,3 +4,4 @@
   * [Overconfidence] (CategoryTwo.md)
   * [Mediocrity] (CategoryThree.md)
   * [Accuracy] (CategoryFour.md)
+  * [Stability] (CategoryFive.md)

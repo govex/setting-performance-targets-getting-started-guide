@@ -5,3 +5,4 @@
   * [Mediocrity] (CategoryThree.md)
   * [Accuracy] (CategoryFour.md)
   * [Stability] (CategoryFive.md)
+* [Practicing Accuracy] (Practice.md)

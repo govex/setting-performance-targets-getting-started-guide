@@ -1,5 +1,5 @@
 ##Category One – Uncertainty
-======
+
 Uncertainty occurs when a city has no baseline data about a performance measure, making it difficult to set appropriate targets without guessing. This most commonly occurs when a measure or program is new. 
 
 ###Signs of uncertainty:

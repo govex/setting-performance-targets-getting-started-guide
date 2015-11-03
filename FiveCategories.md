@@ -1,5 +1,5 @@
 ## Five Common Categories of Performance Targets
-=======
+
 Setting strong targets can be both art and science; and governments should strive for as much science as possible. However, programs, departments, and organizations have varying levels of performance measurement and data science capabilities. Therefore, GovEx developed this guide to give practical advice based on the five “common categories” of target setting in governments across the country. 
 
 All five target-setting categories are illustrated in Figure 1. The graphic is intentionally conceptual, not based on real measures or targets, to make it more generalizable and applicable to a wider audience. The categories are often sequential but not mutually exclusive. One organization can have measures in multiple categories, or all the categories. They are simply commonly occurring, and therefore worth learning from. 

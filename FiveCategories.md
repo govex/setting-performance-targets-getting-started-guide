@@ -12,7 +12,7 @@ All five target setting categories are illustrated in Figure 1. The graphic is i
 * **Stability:** performance has flatlined at an acceptable level, time to move on 
 
 #####Figure 1
-<img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Target%20Setting%20-%20Figure%201.png">
+<img src="https://raw.githubusercontent.com/centerforgov/setting-performance-targets-getting-started-guide/master/Figures/Target%20Setting%20-%20Figure%201.png">
 
 
 > <sub> **Goals vs. Targets** </sub>

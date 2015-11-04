@@ -9,7 +9,7 @@ Uncertainty occurs when a city has no baseline data about a performance measure,
 * The measure relates to a sensitive issue for which setting targets creates downstream political, legal, or moral consequences (e.g., staff downsizing).
 
 #####Figure 2
-<img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Target%20Setting%20-%20Figure%202.png">
+<img src="https://raw.githubusercontent.com/centerforgov/setting-performance-targets-getting-started-guide/master/Figures/Target%20Setting%20-%20Figure%202.png">
 
 ###What to do with uncertainty?
 * **Consider a proxy measure.** Infant mortality rates are a direct measure of healthcare quality but are also a proxy for the economic and social welfare of a community. The unemployment rate is a direct measure of unemployment, but is also a proxy for the overall state of our economy. Proxy measures can be powerful tools for governments who do not have the exact data they want, but know the outcome they are trying to achieve. Both examples given here are commonly used, defensible federal measures.

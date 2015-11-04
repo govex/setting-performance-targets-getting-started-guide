@@ -39,7 +39,7 @@ It seems clear from the basic descriptive statistics that the 5,000 permit goal 
 
 In the example above, improvement has been sustained every month for the past three years. However, it also seems September to December is one of the most productive times of year. So a key question to ask: “is productivity increasing at an increasing rate?” If so, there may be reason to hope 2015 will be even more productive than 2014. Changes in productivity can be assessed by calculating the slope of a line: the change in permits issued across time. Changes in productivity for September through December are calculated in the table below, which makes it clear productivity has continuously increased at an increasing rate. Therefore, it might be reasonable to assume we will come closer to the 5,000 permit goal through a natural annual increase in productivity for the remaining months. 
 
-|                              | Sep-Dec 2012 | Sep-Dec 2013 | Sep-Dec 2014 |
+|                              | Oct-Dec 2012 | Oct-Dec 2013 | Oct-Dec 2014 |
 |------------------------------|--------------|--------------|--------------|
 | Rise (Change in Permits)     | 1,070 permits    | 1,134 permits       | 1,202 permits    |
 | Run (Change in Time)         | 3 months       | 3 months        | 3 months        |

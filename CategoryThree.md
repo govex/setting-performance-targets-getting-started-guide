@@ -10,7 +10,7 @@ Mediocrity occurs when an organization sets targets far below its proven capacit
 * Actual performance remains stagnant.
 
 #####Figure 4
-<img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Target%20Setting%20Graphic%20-%20Figure%204.png">
+<img src="https://raw.githubusercontent.com/centerforgov/setting-performance-targets-getting-started-guide/master/Figures/Target%20Setting%20Graphic%20-%20Figure%204.png">
 
 ###What to do with mediocrity?
 * **Understand it.** Mediocre targets exist for three (often co-occurring) reasons: fear, distrust, and/or complacency. They can emanate from specific individuals, but they can also be endemic to an organization’s culture. Therefore, understanding and addressing the root cause of mediocrity is critical to overcoming it.

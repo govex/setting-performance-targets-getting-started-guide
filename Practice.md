@@ -37,15 +37,15 @@ It seems clear from the basic descriptive statistics that the 5,000 permit goal 
 #####Figure 7
 <img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Practive%20-%20Figure%208.png">
 
-In the example above, improvement has been sustained every month for the past three years. However, it also seems September to December is one of the most productive times of year. So a key question to ask: “is productivity increasing at an increasing rate?” If so, there may be reason to hope 2015 will be even more productive than 2014. Changes in productivity can be assessed by calculating the slope of a line: the change in permits issued across time. Changes in productivity for September through December are calculated in the table below, which makes it clear productivity has not continuously increased at an increasing rate. Therefore, it would be unreasonable to assume we will come closer to the 5,000 permit goal through a natural annual increase in productivity for the remaining months. 
+In the example above, improvement has been sustained every month for the past three years. However, it also seems September to December is one of the most productive times of year. So a key question to ask: “is productivity increasing at an increasing rate?” If so, there may be reason to hope 2015 will be even more productive than 2014. Changes in productivity can be assessed by calculating the slope of a line: the change in permits issued across time. Changes in productivity for September through December are calculated in the table below, which makes it clear productivity has continuously increased at an increasing rate. Therefore, it might be reasonable to assume we will come closer to the 5,000 permit goal through a natural annual increase in productivity for the remaining months. 
 
 |                              | Sep-Dec 2012 | Sep-Dec 2013 | Sep-Dec 2014 |
 |------------------------------|--------------|--------------|--------------|
-| Rise (Change in Permits)     | 178 permits    | 192 permits       | 113 permits    |
+| Rise (Change in Permits)     | 1,070 permits    | 1,134 permits       | 1,202 permits    |
 | Run (Change in Time)         | 3 months       | 3 months        | 3 months        |
-| Change in Productivity (Rise/Run) | 59 permits/month       | 64 permits/month     | 38 permits/month      |
+| Change in Productivity (Rise/Run) | 357 permits/month       | 378 permits/month     | 401 permits/month      |
 
-Since 2014 seems to behave differently than years prior, it is important to learn whether the increase in permits was an anomaly. Cumulative charts can sometimes hide the trends by month, so create a monthly view to spot any differences at a more granular level. In the monthly chart below, July, August and September were all clear anomalies in 2014. How big were the anomalies? July bucked the trend of decreasing permits from previous months and beat the previous July average by 53%. Avoid building targets based on potential anomalies. 
+However, since 2014 seems to behave differently than years prior, it is important to learn whether the increase in permits was an anomaly. Cumulative charts can sometimes hide the trends by month, so create a monthly view to spot any differences at a more granular level. In the monthly chart below, July, August and September were all clear anomalies in 2014. How big were the anomalies? July bucked the trend of decreasing permits from previous months and beat the previous July average by 53%. Avoid building targets based on potential anomalies. 
 
 #####Figure 8
 <img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Practice%20-%20Figure%209.png">

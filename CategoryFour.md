@@ -18,7 +18,7 @@ Ensure accuracy by carefully calculating targets to drive precise achievement. T
 * Actual performance continues to improve.
 
 #####Figure 5
-<img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Target%20Setting%20Graphic%20-%20Figure%205.png">
+<img src="https://raw.githubusercontent.com/centerforgov/setting-performance-targets-getting-started-guide/master/Figures/Target%20Setting%20Graphic%20-%20Figure%205.png">
 
 ###How to practice accuracy?
 * **Leverage multiple datasets (variables).** An accurate target is one that accounts for as many variables as possible that impact the performance measure. For example, when forecasting the number of permits a building department can issue, think carefully about the influence of time, productivity, staffing levels, and permit type on achieving those targets. They likely all contribute to performance, so leveraging data on as many variables as possible will increase the accuracy of target predictions. 

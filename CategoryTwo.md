@@ -12,7 +12,7 @@ Overconfidence occurs when targets are unrealistic and unattainable based on all
 * The target is set far beyond a reasonable range based on past performance and baseline data.
 
 #####Figure 3
-<img src="https://raw.githubusercontent.com/centerforgov/Setting-Performance-Targets/master/Figures/Target%20Setting%20Graphic%20-%20Figure%203.png">
+<img src="https://raw.githubusercontent.com/centerforgov/setting-performance-targets-getting-started-guide/master/Figures/Target%20Setting%20Graphic%20-%20Figure%203.png">
 
 ###What to do with overconfidence?
 * **Understand it.** There may or may not be a reason someone is setting targets (and expectations) so unattainably high. They might not know the baseline historical data well. They might be relying on performance targets they have seen in other jurisdictions. Or they might be trying to inspire aggressive change. Many executives set an impossible target hoping the program will get halfway there - further than they would have gone without it. Once there is an  understanding of the reason for overconfidence, it can be corrected (or let go). 

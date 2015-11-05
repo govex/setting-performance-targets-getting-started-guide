@@ -1,5 +1,5 @@
 ##Benchmarking Resources
-Benchmarking is the process of continuously comparing and measuring one organization against another to gain information that will help the organization take action to improve its performance. Governments of all level so capability should leveraging benchmarking in their performance management practice. The list below provides quick links to helpful benchmarking resources.
+[Benchmarking](Glossary.md) is the process of continuously comparing and measuring one organization against another to gain information that will help the organization take action to improve its performance. Governments of all level so capability should leveraging benchmarking in their [performance management](Glossary.md) practice. The list below provides quick links to helpful benchmarking resources.
 
 >The Chilton Labor Guide, Mechanical Labor Estimating Guide, and MOTOR Labor Guide Manual are three commonly used benchmarking tools for understanding labor standards for fleet management activities. 
 

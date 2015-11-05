@@ -15,12 +15,11 @@ All five target setting categories are illustrated in Figure 1. The graphic is i
 <img src="https://raw.githubusercontent.com/centerforgov/setting-performance-targets-getting-started-guide/master/Figures/Target%20Setting%20-%20Figure%201.png">
 
 
-> <sub> **Goals vs. Targets** </sub>
+>**Goals vs. Targets**
 
-> <sub>Many organizations have very precise definitions for the words goal and target. For example, a city many set a goal to end homelessness by 2018, and then set specific targets for each preceding year. Under this construct, the goal is the ultimate desired achievement, and the target is the path to get there. However, other organizations, including GovEx, use the words more interchangeably, because they are essentially the same thing: a specific quantity a program, department, or government is trying to achieve in the future. Because goals and targets have so much in common, GovEx has chosen to avoid making meaningful distinctions between them and encourages governments to use whichever construct makes the most sense to its people and culture. </sub> 
+>Many organizations have very precise definitions for the words goal and target. For example, a city many set a goal to end homelessness by 2018, and then set specific targets for each preceding year. Under this construct, the goal is the ultimate desired achievement, and the target is the path to get there. However, other organizations, including GovEx, use the words more interchangeably, because they are essentially the same thing: a specific quantity a program, department, or government is trying to achieve in the future. Because goals and targets have so much in common, GovEx has chosen to avoid making meaningful distinctions between them and encourages governments to use whichever construct makes the most sense to its people and culture.
 
-> <sub> **Goal statements** </sub>
+>**Goal statements**
 
-> <sub>Goal statements are also commonly used in performance management, but are broader than goals and targets. Goal statements include qualitative as well as quantitative information, like “create a stronger and safer community for all residents by ending homelessness in 2018.” The goal/target in that statement is still zero homeless individuals by 2018, but language about stronger and safer communities has been added to provide context to the goal/target.
-</sub>
+>Goal statements are also commonly used in performance management, but are broader than goals and targets. Goal statements include qualitative as well as quantitative information, like “create a stronger and safer community for all residents by ending homelessness in 2018.” The goal/target in that statement is still zero homeless individuals by 2018, but language about stronger and safer communities has been added to provide context to the goal/target.
 

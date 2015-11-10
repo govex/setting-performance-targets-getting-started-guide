@@ -19,5 +19,5 @@ Stability occurs when performance has flatlined at an acceptable level. It occur
 * **Move on.** With a permanent champion in place, it is time for senior leadership to stop tracking and setting new targets for this measure. Move on to a program or service with a more difficult record of underperformance. 
 
 ###What not to do with Stability?
-* **Do not take it for granted.** High performing programs can often be ignored because no one has to spend much time thinking about them. Do not make that mistake. Take time to learn from high performing programs to make sure they can replicated and sustained. 
+* **Do not take it for granted.** High performing programs can often be ignored because no one has to spend much time thinking about them. Do not make that mistake. Take time to learn from high performing programs to make sure they can be replicated and sustained. 
 * **Do not jeopardize it.** Stability is not achieved by accident. It required specific actions, investments, and management strategies. As other performance measures and targets come into focus, be mindful about shifting resources away from the very things that led to stability in the first place. 

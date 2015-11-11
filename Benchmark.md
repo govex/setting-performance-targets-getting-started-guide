@@ -1,27 +1,33 @@
 ##Benchmarking Resources
 [Benchmarking](Glossary.md) is the process of continuously comparing and measuring one organization against another to gain information that will help the organization take action to improve its performance. Governments of all level so capability should leveraging benchmarking in their [performance management](Glossary.md) practice. The list below provides quick links to helpful benchmarking resources.
 
->The [North Carolina Benchmarking Project](http://www.sog.unc.edu/resources/microsites/north-carolina-benchmarking-project) is produced by the UNC School of Government and provides a comparative basis for local governments to assess service delivery and costs. It allows municipalities to compare themselves with other participating units and with their own internal operations over time. The benchmarking process includes compiling service and cost information, cleaning the data for accuracy, calculating the selected performance measures, and comparing the results. 
+**National Resources**
 
 >For those interested in the relative size of government, the US Census Bureau conducts an annual survey of federal, state and local governments and publishes the [payroll costs and number of full/part time employees working at each level of government](http://www.census.gov//govs/apes/historical_data.html). The data is a snapshot of the March pay period for each jurisdiction and breaks down into programs (i.e. housing, finance, parks, education, etc). 
 
 >The [Open Data Network](http://www.opendatanetwork.com/) connects publishers of high-value data to the businesses, developers, and analysts that use, reuse, and enrich data. The site has easy links to data published by members of its network, including almost 200 city, county, state and federal agencies publishing data about infrastructure, housing & development, finance, politics, education, public safety, health and transportation. This is a great resources for governments to use data publsihed by other governments to establish performance benchmarks, but is limited to governments who use a Socrata platform.
 
->The Chilton Labor Guide, Mechanical Labor Estimating Guide, and MOTOR Labor Guide Manual are three commonly used benchmarking tools for understanding labor standards for fleet management activities. 
-
 >[ICMA Insights](http://icma.org/en/results/center_for_performance_measurement/icma_insights) is, among other things, a national comparative performance database. Participating jurisdictions can look at the data from other jurisdictions, see how their own results compare, share successful approaches to service delivery, and set appropriate benchmarks and standards for their own performance on selected measures.
 
 >The [World Council on City Data](http://open.dataforcities.org/) has Indicators for City Services and Quality of Life, the first international standard on city data, was published in May 2014 by the International Organization for Standardization (ISO). This new international standard was developed using the framework of the Global City Indicators Facility. This is a demand-led standard, driven and created by cities, for cities. ISO 37120 defines and establishes definitions and methodologies for a set of indicators to steer and measure the performance of city services and quality of life. The standard includes a comprehensive set of 100 indicators — of which 46 are core — that measures a city's social, economic, and environmental performance.
-
->The Arizona State University [Center for Urban Innovation](https://urbaninnovation.asu.edu/) does a number of research projects aimed at accelerating and transforming local government, including publishing a [Valley Benchmarking Cities Report](https://urbaninnovation.asu.edu/research/reports/valley-benchmark-cities-2014-2015/view) which highlights benchmarking data for 11 participating jurisdictions in the Phoenix “Valley of the Sun.” 
 
 >The Brookings Institution publishes [Data Resources for State and Metropolitan Areas](http://www.brookings.edu/about/programs/metro/resources) which provides interactive demographic, social and economic data and in-depth profiles for the U.S.'s 100 largest metropolitan areas. 
 
 >The Urban Institute produces [Performwell](http://www.performwell.org/), which provides measurement tools and practical knowledge that human services professionals can use to manage their programs’ day-to-day performance.
 
+>The Chilton Labor Guide, Mechanical Labor Estimating Guide, and MOTOR Labor Guide Manual are three commonly used benchmarking tools for understanding labor standards for fleet management activities. 
+
+**State-Specific Resources**
+
+>The [North Carolina Benchmarking Project](http://www.sog.unc.edu/resources/microsites/north-carolina-benchmarking-project) is produced by the UNC School of Government and provides a comparative basis for local governments to assess service delivery and costs. It allows municipalities to compare themselves with other participating units and with their own internal operations over time. The benchmarking process includes compiling service and cost information, cleaning the data for accuracy, calculating the selected performance measures, and comparing the results. 
+
+>The Arizona State University [Center for Urban Innovation](https://urbaninnovation.asu.edu/) does a number of research projects aimed at accelerating and transforming local government, including publishing a [Valley Benchmarking Cities Report](https://urbaninnovation.asu.edu/research/reports/valley-benchmark-cities-2014-2015/view) which highlights benchmarking data for 11 participating jurisdictions in the Phoenix “Valley of the Sun.” 
+
 >The [Florida Benchmarking Consortium](http://www.flbenchmark.org/) is an intra-state local government benchmarking consortium with over 40 member local governments.  Each member local government participates across 18 local government performance management-focused service areas, potentially using a combined total of over 670 performance measures that have been dynamically crafted, massaged, managed and improved over time by service area experts from the many industries of Florida's local governments.
 
 >The [Michigan Local Government Benchmarking Consortium](http://msue.anr.msu.edu/program/info/benchmarking_consortium) brings together cities, townships, and counties from across Michigan and produce meaningful and relevant performance measures for the purpose of benchmarking and multijurisdictional performance comparisons. 
+
+**International Resources**
 
 >The [Scottish Local Government Benchmarking site](http://www.improvementservice.org.uk/benchmarking/) brings together a wide range of information about how all Scottish councils perform in delivering better services to local communities, including the cost of services and how satisfied citizens are with them. Bear in mind that Scottish councils are democratically elected bodies which represent very diverse communities in terms of geography, population, deprivation levels and community needs. The information presented here should be read and understood in that context, as some of the variation highlighted by the data is significantly affected by such differences between communities.
 

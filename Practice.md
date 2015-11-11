@@ -21,6 +21,8 @@ Take a look at the historical data for permits:
 | November  | 375  | 398  | 421  | TBD  |
 | December  | 345  | 366  | 388  | TBD  |
 
+> **Quick Tip:** Practice yourself by copying and pasting everything in the table to an Excel spreadsheet. (Just remember to clear the "To Be Determined (TBD)" cells, since they are not real numbers). 
+
 ####Step Two: Generate the summary statistics about past performance. 
 From this quick look, you can do rough calculations to gauge whether the target is achievable if the department maximizes performance. If the department operated at maximum proven capacity (421 permits a month) for the remaining six months, it would issue a total of 4,483 permits for the year, still short of the city manager’s goal. But the department keeps getting better every year – the minimum, average, median and maximum keep increasing – so maybe there is room for dramatic improvement.
 
@@ -30,6 +32,13 @@ From this quick look, you can do rough calculations to gauge whether the target 
 | 2013       | 3,449         | 156     | 287     | 302    | 398     |
 | 2014       | 3,856         | 225     | 321     | 317    | 421     |
 | 2015 (YTD) | 1,957         | 236     | 326     | 328    | 405     |
+
+> **Quick Tip: How to Generate Summary Statistics**
+> * **Sum:** To calculate the Total Permits issued each year, simply add each cell together for each year. The quick way to do this in Excel is to use the "Sum" Function, which should look something like this for 2012: =SUM(B2:B13). In this Excel formula, "SUM" is a function that adds everything in parentheses together, B2 is the data for January 2012, B13 is the data for December 2012; and the colon means "everything in between." 
+> * **Minimum:** The quick way to find the Minimum number of permits issued each year is to use Excel's "MIN" Function, which should look something like this for 2012: =MIN(B2:B13). In this formula, "MIN" is a function that finds the smallest data point between everyting in parentheses.
+> * **Average:** An average (or "mean") is the sum of a list of numbers divided by the number of numbers in the list. In this example, it is the sum total of permits issued for each month of the year, divided by 12 months. The quick way to find the average number of permits issued each year is to use Excel's "AVERAGE" function, which should look something like this for 2012: =AVERAGE(B2:B13). In this formula, "AVERAGE" is a function that adds everyting in parentheses and divides it by 12.
+> * **Median:** The median is the point in your dataset that separates the larger 50% from the smaller 50%. For example, if I have numbers 1 through 10, 5.5 is the Median because 50% of the values are higher and 50% are lower. The quick way to find the Median number of permits issued each year is to use Excel's "MEDIAN" Function, which should look something like this for 2012: =MEDIAN(B2:B13). In this formula, "MEDIAN" is a function that sorts all of your data from smallest to largets and then finds the midpoint.
+> * **Maximum:** The quick way to find the Maximum number of permits issued each year is to use Excel's "MAX" Function, which should look something like this for 2012: =MAX(B2:B13). In this formula, "MAX" is a function that finds the largest data point between everyting in parentheses.
 
 ####Step Three: Confirm all trends and anomalies
 It seems clear from the basic descriptive statistics that the 5,000 permit goal is improbable, but year-over-year improvement makes it seem possible. Because summary-level statistics can often mask the underlying dynamics, it is time to confirm all trends and anomalies.  Plotting the data in a chart is an excellent way to spot both. 

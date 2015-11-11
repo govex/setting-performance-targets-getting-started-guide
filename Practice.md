@@ -34,6 +34,7 @@ From this quick look, you can do rough calculations to gauge whether the target 
 | 2015 (YTD) | 1,957         | 236     | 326     | 328    | 405     |
 
 > **Quick Tip: How to Generate Summary Statistics**
+>This is not an exhaustive list of [descriptive statistics](Glossary.md), but it is enough to get started.
 > * **Sum:** To calculate the Total Permits issued each year, simply add each cell together for each year. The quick way to do this in Excel is to use the "Sum" Function, which should look something like this for 2012: =SUM(B2:B13). In this Excel formula, "SUM" is a function that adds everything in parentheses together, B2 is the data for January 2012, B13 is the data for December 2012; and the colon means "everything in between." 
 > * **Minimum:** The quick way to find the Minimum number of permits issued each year is to use Excel's "MIN" Function, which should look something like this for 2012: =MIN(B2:B13). In this formula, "MIN" is a function that finds the smallest data point between everyting in parentheses.
 > * **Average:** An average (or "mean") is the sum of a list of numbers divided by the number of numbers in the list. In this example, it is the sum total of permits issued for each month of the year, divided by 12 months. The quick way to find the average number of permits issued each year is to use Excel's "AVERAGE" function, which should look something like this for 2012: =AVERAGE(B2:B13). In this formula, "AVERAGE" is a function that adds everyting in parentheses and divides it by 12.

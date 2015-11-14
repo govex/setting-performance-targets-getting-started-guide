@@ -32,6 +32,8 @@
 
 **Forecasting:** the process of making predictions of the future based on past and present data and analysis of trends. It involves estimating specific values at certain future times. Forecasting is related to target setting, in that each process involves an analysis of past data and an analysis of trends; however, forecasting also involves using the latest up-to-date data to continuously improve the accuracy of the forecast. 
 
+**Goal:** see the definition for "Target"
+
 **Goal Statement:** broad statements describing desired end states, but more specific than an organization’s mission. Sometimes referred to as strategic goals or strategic objectives, goal statements combine qualitative and quantitative information to convey a clear overarching context and purpose to a specific level of desired achievement. Goal statements include, but are not limited to, goals/targets. For example, in the following goal statement “The City of Smallville will create stronger and safer communities for all residents by ending homelessness by 2018,” ending homelessness by 2018 is the goal/target. The preceding language in the goal statement makes it clear to stakeholders why ending homelessness is important. 
 
 **Government Data:** data which describes the operations of a government; electronic records which the government maintains to do its business; statistical information created or maintained by or on behalf of and an agency that records a measurement, transaction, or determination related to the mission of an agency.
@@ -69,8 +71,6 @@
 
 **Performance Priority:** Category of subject matter on which a government wishes to achieve results. Categories may include public safety, public health, education, sustainability and the environment, jobs and the economy, and government operations and management.
 
-**Performance Target/Goal:** a mark to aim for. A desired change in the measure/metric that will advance progress toward a goal statement within a specified timeline. 
-
 **Proxy Measure:** A proxy is an indirect measure of the desired outcome which is itself strongly correlated to that outcome. It is commonly used when direct measures of the outcome are unobservable and/or unavailable. The most common example of a proxy measure is Gross Domestic Product (GDP), which is used by many organizations and research institutions as a proxy for standard of living or quality of life. An organization should use a proxy measure when there is little or no data available about the program being implemented, but the outcome the program is designed to influence has an existing and commonly accepted proxy. 
 
 **Result:** The ultimate desired endgame, which is achieved by strategies and assessed through analysis, and measures/metrics.
@@ -89,5 +89,7 @@
 **Strategic Goal:** a goal statement that guides an organization’s efforts to move toward a desired end state and advances the organization’s mission.
 
 **Strategy:** An action or set of actions that departments may take, individually or in concert with one another and/or the Chief Executive’s office and/or external stakeholders, to achieve the goal and ultimately the end result.
+
+**Target:** a mark to aim for. A desired change in the measure/metric that will advance progress toward a goal statement within a specified timeline. This is often referred to as a "goal." 
 
 **Trends:** a general direction in which something is developing or changing over time.

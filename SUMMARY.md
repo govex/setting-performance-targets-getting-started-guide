@@ -8,4 +8,5 @@
 * [Practicing Accuracy](Practice.md)
 * [Proxy Measures](Proxy.md)
 * [Benchmarking](Benchmark.md)
+* [Messaging Measures & Targets](Message.md)
 * [Glossary](Glossary.md)

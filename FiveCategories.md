@@ -4,6 +4,9 @@ Setting strong targets can be both art and science; and governments should striv
 
 All five target setting categories are illustrated in Figure 1. The graphic is intentionally conceptual, not based on real measures or targets, to make it more generalizable and applicable to a wider audience. The categories are often sequential but not mutually exclusive. One organization can have measures in multiple categories, or all the categories. They are simply commonly occurring, and therefore worth learning from. 
 
+**What Should Governments Aim For?**
+The ultimate goal is for governments to set accurate targets until they are sustainably reached. However, there is no wrong door to enter and no shame in any of these categories. Every government faces each category mentioned in this guide and must deal with uncertainty while sometimes reaching higher than their capacity. Every government has a few programs and measures that are "mediocre."  This guide will provide quick do's and don'ts for every stage along the journey. In the end, the ideal state is continuous improvement, not perfection. 
+
 **A quick summary of the five categories:**
 * **Uncertainty:** no [baseline](Glossary.md) data exists to set appropriate targets without guessing
 * **Overconfidence:** targets are unrealistic and unattainable based on baseline data

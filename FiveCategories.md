@@ -9,7 +9,7 @@ All five target setting categories are illustrated in Figure 1. The graphic is i
 * **Overconfidence:** targets are unrealistic and unattainable based on baseline data
 * **Mediocrity:** targets are far below proven [capacity](Glossary.md)
 * **Accuracy:** targets are carefully calculated to drive precise achievement
-* **Stability:** performance has flatlined at an acceptable level, time to move on 
+* **Stability:** performance has reached an acceptable level, time to maintain and shift focus
 
 #####Figure 1
 <img src="https://raw.githubusercontent.com/centerforgov/setting-performance-targets-getting-started-guide/master/Figures/Target%20Setting%20-%20Figure%201.png">
@@ -17,7 +17,7 @@ All five target setting categories are illustrated in Figure 1. The graphic is i
 
 >**Goals vs. Targets**
 
->Many organizations have very precise definitions for the words [goal and target](Glossary.md). For example, a city may set a goal to end homelessness by 2018, and then set specific targets for each preceding year. Under this construct, the goal is the ultimate desired achievement, and the target is the path to get there. However, other organizations, including GovEx, use the words more interchangeably, because they are essentially the same thing: a specific quantity a program, department, or government is trying to achieve in the future. Because goals and targets have so much in common, GovEx has chosen to avoid making meaningful distinctions between them and encourages governments to use whichever construct makes the most sense to its people and culture.
+>Many organizations have very precise definitions for the words [goal and target](Glossary.md). For example, a city may set a goal to end homelessness by 2018, and then set specific targets for each preceding year. Under this construct, the goal is the ultimate desired achievement, and the target is the path to get there. However, other organizations, including GovEx, use the words more interchangeably, because they are essentially the same thing: a specific quantity a program, department, or government is trying to achieve in the future. Because goals and targets have so much in common, GovEx has chosen to avoid making distinctions between them and encourages governments to use whichever terminology makes the most sense to its people and culture.
 
 >**Goal statements**
 

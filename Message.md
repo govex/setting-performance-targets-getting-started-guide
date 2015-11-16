@@ -2,7 +2,6 @@
 
 Communicating about targets is critical. If governments can explain the purpose and rationale behind performance targets, then stakeholders can more easily achieve them. Here are some quick tips on how to talk targets with those who need to understand why they exist, what they mean, and how they can contribute. 
 
-###
 ###Quick Tips
 * **Be positive.** Targets can feel inherently punitive if not met, so avoid adding to that perception by using phrases that frame targets positively combined with words that place stakeholders in a supportive environment:
   * *shared achievement* 

@@ -1,6 +1,6 @@
 ##Category Two: Overconfidence
 
-Overconfidence occurs when targets are unrealistic and unattainable based on all available evidence. There is no evidence the government has ever performed at the target level, and no evidence it can reach the target. It is pure optimism. This is most common when a government is trying to take an aggressive position to inspire higher performance, regardless of the evidence. 
+Overconfidence occurs when targets are unrealistic and unattainable __based on all available evidence__. There is no evidence the government has ever performed at the target level, and no evidence it can reach the target. It is pure optimism and/or sheer political will. This is most common when a government is trying to take an aggressive position to inspire higher performance, regardless of the evidence. 
 
   > Why does overconfidence matter?
 
@@ -10,6 +10,7 @@ Overconfidence occurs when targets are unrealistic and unattainable based on all
 ###Signs of overconfidence:
 * There is no internal consensus about the validity of the target – in fact some people are not even sure where the target came from.
 * The target is set far beyond a reasonable range based on past performance and baseline data.
+* The target was set by someone other than the subject matter expert.
 
 #####Figure 3
 <img src="https://raw.githubusercontent.com/centerforgov/setting-performance-targets-getting-started-guide/master/Figures/Target%20Setting%20Graphic%20-%20Figure%203.png">
@@ -21,6 +22,7 @@ Overconfidence occurs when targets are unrealistic and unattainable based on all
   * **Confirm all [trends](Glossary.md) and [anomalies](Glossary.md)**
   * **Show (do not just tell)** what it would take to reach the overconfident target
   * **Find a middle ground**
+* **Adjust the timelines.** If the target setter is unwilling to change the target, consider adjusting the timeline for achieveing it. 
 * **Let it go.** If leadership wants to set impossibly high expectations, there are worse problems to have. 
 
 ###What not to do with overconfidence?

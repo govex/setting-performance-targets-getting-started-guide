@@ -1,5 +1,5 @@
 ##Benchmarking Resources
-[Benchmarking](Glossary.md) is the process of continuously comparing and measuring one organization against another to gain information that will help the organization take action to improve its performance. Governments of all level so capability should leveraging benchmarking in their [performance management](Glossary.md) practice. The list below provides quick links to helpful benchmarking resources.
+[Benchmarking](Glossary.md) is the process of continuously comparing and measuring one organization against another to gain information that will help the organization take action to improve its performance. Governments of all levels of capability can leverage benchmarking in their [performance management](Glossary.md) practice. The list below provides quick links to helpful benchmarking resources.
 
 **National Resources**
 

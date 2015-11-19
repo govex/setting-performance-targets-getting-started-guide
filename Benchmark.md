@@ -24,8 +24,6 @@
 > * [Performwell](http://www.performwell.org/), which provides measurement tools and practical knowledge that human services professionals can use to manage their programs’ day-to-day performance.
 > * The [National Neighborhood Indicators Project (NNIP)](http://www.neighborhoodindicators.org/data-tech/sources) is coordinated by the Urban Institute and leverages NNIP partners to build information on neighborhood conditions in partner cities and communities. Their [list of data sources](http://www.neighborhoodindicators.org/data-tech/sources) has indicators that cover topics such as births, deaths, crime, health status, educational performance, public assistance, and property conditions.
 
->The Chilton Labor Guide, Mechanical Labor Estimating Guide, and MOTOR Labor Guide Manual are three commonly used benchmarking tools for understanding labor standards for fleet management activities. 
-
 **State-Specific Resources**
 
 >The [North Carolina Benchmarking Project](http://www.sog.unc.edu/resources/microsites/north-carolina-benchmarking-project) is produced by the UNC School of Government and provides a comparative basis for local governments to assess service delivery and costs. It allows municipalities to compare themselves with other participating units and with their own internal operations over time. The benchmarking process includes compiling service and cost information, cleaning the data for accuracy, calculating the selected performance measures, and comparing the results. 

@@ -17,7 +17,7 @@
 
 >The Brookings Institution publishes [Data Resources for State and Metropolitan Areas](http://www.brookings.edu/about/programs/metro/resources) which provides interactive demographic, social and economic data and in-depth profiles for the U.S.'s 100 largest metropolitan areas. 
 
->The Urban Institute produces and/or supports multiple resources that are valuable as benchmarking tools. 
+>The [Urban Institute](http://www.urban.org/) produces and/or supports multiple resources that are valuable as benchmarking tools. 
 > * The [Urban Institute National Data Repository](http://www.metrotrends.org/natdata/) provides free, well-documented versions of national data files with meaningful indicators of community well-being. This includes home Mortgage data, zip/County business patterns, education statistics, and American Community Survey data.   
 > * [Performwell](http://www.performwell.org/), which provides measurement tools and practical knowledge that human services professionals can use to manage their programs’ day-to-day performance.
 > * The [National Neighborhood Indicators Project (NNIP)](http://www.neighborhoodindicators.org/data-tech/sources) is coordinated by the Urban Institute and leverages NNIP partners to build information on neighborhood conditions in partner cities and communities. Their [list of data sources](http://www.neighborhoodindicators.org/data-tech/sources) has indicators that cover topics such as births, deaths, crime, health status, educational performance, public assistance, and property conditions.

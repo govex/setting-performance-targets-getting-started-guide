@@ -15,8 +15,6 @@
 
 >[ICMA Insights](http://icma.org/en/results/center_for_performance_measurement/icma_insights) is, among other things, a national comparative performance database. Participating jurisdictions can look at the data from other jurisdictions, see how their own results compare, share successful approaches to service delivery, and set appropriate benchmarks and standards for their own performance on selected measures.
 
->The [World Council on City Data](http://open.dataforcities.org/) has Indicators for City Services and Quality of Life, the first international standard on city data, was published in May 2014 by the International Organization for Standardization (ISO). This new international standard was developed using the framework of the Global City Indicators Facility. This is a demand-led standard, driven and created by cities, for cities. ISO 37120 defines and establishes definitions and methodologies for a set of indicators to steer and measure the performance of city services and quality of life. The standard includes a comprehensive set of 100 indicators — of which 46 are core — that measures a city's social, economic, and environmental performance.
-
 >The Brookings Institution publishes [Data Resources for State and Metropolitan Areas](http://www.brookings.edu/about/programs/metro/resources) which provides interactive demographic, social and economic data and in-depth profiles for the U.S.'s 100 largest metropolitan areas. 
 
 >The Urban Institute produces and/or supports multiple resources that are valuable as benchmarking tools. 
@@ -37,6 +35,8 @@
 >The [Michigan Local Government Benchmarking Consortium](http://msue.anr.msu.edu/program/info/benchmarking_consortium) brings together cities, townships, and counties from across Michigan and produce meaningful and relevant performance measures for the purpose of benchmarking and multijurisdictional performance comparisons. 
 
 **International Resources**
+
+>The [World Council on City Data](http://open.dataforcities.org/) has Indicators for City Services and Quality of Life, the first international standard on city data, was published in May 2014 by the International Organization for Standardization (ISO). This new international standard was developed using the framework of the Global City Indicators Facility. This is a demand-led standard, driven and created by cities, for cities. ISO 37120 defines and establishes definitions and methodologies for a set of indicators to steer and measure the performance of city services and quality of life. The standard includes a comprehensive set of 100 indicators — of which 46 are core — that measures a city's social, economic, and environmental performance.
 
 >The [Scottish Local Government Benchmarking site](http://www.improvementservice.org.uk/benchmarking/) brings together a wide range of information about how all Scottish councils perform in delivering better services to local communities, including the cost of services and how satisfied citizens are with them. Bear in mind that Scottish councils are democratically elected bodies which represent very diverse communities in terms of geography, population, deprivation levels and community needs. The information presented here should be read and understood in that context, as some of the variation highlighted by the data is significantly affected by such differences between communities.
 
